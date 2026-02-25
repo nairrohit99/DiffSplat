@@ -40,8 +40,9 @@ Feel free to contact me (chenguolin@stu.pku.edu.cn) or open an issue if you have
 ## 🔥 See Also
 
 You may also be interested in our other works:
-- [**[arXiv 2507] MoVieS**](https://github.com/chenguolin/MoVieS): a feed-forward model for dynamic 3DGS reconstruction from monocular videos.
-- [**[arXiv 2506] PartCrafter**](https://github.com/wgsxm/PartCrafter): a 3D-native DiT that can directly generate 3D objects in multiple parts.
+- [**[CVPR 2026] Diff4Splat**](https://github.com/paulpanwang/Diff4Splat): a generative model for 4D dynamic scenes from a single-view image.
+- [**[CVPR 2026] MoVieS**](https://github.com/chenguolin/MoVieS): a feed-forward model for 4D dynamic reconstruction from monocular videos.
+- [**[NeurIPS 2025] PartCrafter**](https://github.com/wgsxm/PartCrafter): a 3D-native DiT that can directly generate 3D objects in multiple parts.
 
 
 ## 📢 News
